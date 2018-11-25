@@ -1,0 +1,19 @@
+{
+    "type": "MultiPoint",
+    "data": {
+        "Multiple QGeoCircle array:": [
+            {
+                "QGeoShape": "QGeoCircle",
+                "center coordinates": [11, 60]
+            },
+            {
+                "QGeoShape": "QGeoCircle",
+                "center coordinates": [5.5, 60.3]
+            },
+            {
+                "QGeoShape": "QGeoCircle",
+                "center coordinates": [5.7, 58.9]
+            }
+        ]
+    }
+}

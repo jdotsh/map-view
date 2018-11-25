@@ -1,0 +1,14 @@
+{
+    "type": "Polygon",
+    "data": {
+        "QGeoShape": "Polygon",
+        "Vertexes coordinates arrays": [
+            [
+                [17.13, 51.11],
+                [30.54, 50.42],
+                [26.7, 58.36],
+                [17.13, 51.11]
+            ]
+        ]
+    }
+}

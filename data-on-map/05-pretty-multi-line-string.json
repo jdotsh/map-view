@@ -1,0 +1,21 @@
+{
+    "type": "MultiLineString",
+    "data": {
+        "Multiple QGeoPath array:": [
+            {
+                "QGeoShape": "QGeoPath",
+                "Vertexes coordinates": [
+                    [13.5, 43],
+                    [10.73, 59.92]
+                ]
+            },
+            {
+                "QGeoShape": "QGeoPath",
+                "Vertexes coordinates": [
+                    [9.15, 45],
+                    [-3.15, 58.9]
+                ]
+            }
+        ]
+    }
+}

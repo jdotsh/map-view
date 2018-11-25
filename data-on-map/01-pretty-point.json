@@ -1,0 +1,7 @@
+{
+    "type": "Point",
+    "data": {
+        "QGeoShape": "QGeoCircle",
+        "center coordinates": [11, 60]
+    }
+}
